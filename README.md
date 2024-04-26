@@ -1,6 +1,6 @@
 #    
-# shlink-docker   
-A Docker  Compose implementation of [Shlink](https://shlink.io) with Postgres backend
+# shlink-Compose
+A Docker Compose implementation of [Shlink](https://shlink.io) with Postgres backend
    
 Clone the repo   
 ```
